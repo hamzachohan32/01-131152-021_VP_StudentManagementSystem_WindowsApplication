@@ -1,0 +1,16 @@
+C:\Users\Hamza\source\repos\StudentManagementApplication\StudentManagementApplication\bin\Debug\StudentManagementApplication.exe.config
+C:\Users\Hamza\source\repos\StudentManagementApplication\StudentManagementApplication\bin\Debug\StudentManagementApplication.exe
+C:\Users\Hamza\source\repos\StudentManagementApplication\StudentManagementApplication\bin\Debug\StudentManagementApplication.pdb
+C:\Users\Hamza\source\repos\StudentManagementApplication\StudentManagementApplication\obj\Debug\StudentManagementApplication.csprojResolveAssemblyReference.cache
+C:\Users\Hamza\source\repos\StudentManagementApplication\StudentManagementApplication\obj\Debug\StudentManagementApplication.Properties.Resources.resources
+C:\Users\Hamza\source\repos\StudentManagementApplication\StudentManagementApplication\obj\Debug\StudentManagementApplication.csproj.GenerateResource.cache
+C:\Users\Hamza\source\repos\StudentManagementApplication\StudentManagementApplication\obj\Debug\StudentManagementApplication.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\StudentManagementApplication\StudentManagementApplication\obj\Debug\StudentManagementApplication.exe
+C:\Users\Hamza\source\repos\StudentManagementApplication\StudentManagementApplication\obj\Debug\StudentManagementApplication.pdb
+C:\Users\Hamza\source\repos\StudentManagementApplication\StudentManagementApplication\obj\Debug\StudentManagementApplication.AddStudent.resources
+C:\Users\Hamza\source\repos\StudentManagementApplication\StudentManagementApplication\obj\Debug\StudentManagementApplication.ManagementSystemMain.resources
+C:\Users\Hamza\source\repos\StudentManagementApplication\StudentManagementApplication\obj\Debug\StudentManagementApplication.DeleteStudent.resources
+C:\Users\Hamza\source\repos\StudentManagementApplication\StudentManagementApplication\obj\Debug\StudentManagementApplication.search.resources
+C:\Users\Hamza\source\repos\StudentManagementApplication\StudentManagementApplication\obj\Debug\StudentManagementApplication.topStudents.resources
+C:\Users\Hamza\source\repos\StudentManagementApplication\StudentManagementApplication\obj\Debug\StudentManagementApplication.MarkAttandence.resources
+C:\Users\Hamza\source\repos\StudentManagementApplication\StudentManagementApplication\obj\Debug\StudentManagementApplication.View.resources
